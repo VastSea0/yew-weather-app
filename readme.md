@@ -1,7 +1,7 @@
 # Yew Weather App 🦀
 
 This project is a weather application built using Yew, a modern web framework for creating multi-threaded front-end web apps with WebAssembly. It uses Trunk for easy development and building.
-
+![img.png](img.png)
 ## Features
 
 - Fetches and displays weather data
